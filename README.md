@@ -46,7 +46,7 @@ The deep neural network (e.g., DNN) is an artificial neural network (e.g., ANN) 
 	
 
 <p>When using OpenCV’s deep neural network module with Caffe models, you’ll need two sets of files:</p>
-* The .prototxt file(s) which define the model architecture (i.e., the layers themselves)
+* The .prototxt file(s) which define the model architecture (i.e., the layers themselves)</br>
 * The .caffemodel file which contains the weights for the actual layers
 
 #  :point_right: Pre-requisites :
